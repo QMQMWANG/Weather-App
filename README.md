@@ -7,11 +7,13 @@ Welcome to the City Weather App repository! This web application allows users to
 - Search for and view the weather in any city
 - Get real-time weather updates
 - View detailed weather forecasts including temperature, humidity, and wind speed.
+- Display error message when invalid input is received
 
 ## Technologies Used
 - **HTML**: Structure of the web application's pages
 - **CSS**: Styling and design of the application
 - **JavaScript**: Interactive elements and API requests
+- 
 
 ## API Reference
 The data for this application is provided by the [OpenWeather API](https://openweathermap.org/). This robust API delivers accurate weather information and forecasts.
