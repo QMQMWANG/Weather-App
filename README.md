@@ -14,7 +14,12 @@ Welcome to the City Weather App repository! This web application allows users to
 - **JavaScript**: Interactive elements and API requests
 
 ## API Reference
-The data for this application is provided by the [OpenWeather API]https://openweathermap.org/. This robust API delivers accurate weather information and forecasts.
+The data for this application is provided by the [OpenWeather API](https://openweathermap.org/). This robust API delivers accurate weather information and forecasts.
+
+
+
+
+
 
 
 
